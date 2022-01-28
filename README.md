@@ -38,8 +38,11 @@ Entrada | Saida
 5 6 7 8 | DIFERENCA = -26
 0 0 7 8 | DIFERENCA = -56
 
-**Código**
-<img src="" alt="Desafio 1 GTF"></img>
+<div align="center">
+  
+**Resolução**<br />
+<img src="https://github.com/JefersonTaiyou/TipoValorReferencia/blob/main/img-desafio/Desafio1-GFT.PNG" alt="Desafio 1 GTF"></img>
+</div>
 
 -------------------------------
 
@@ -57,14 +60,17 @@ Entrada | Saida
 6 24 | Sao Multiplos
 6 25 | Nao sao Multiplos
 
-**Código**
-<img src="" alt="Desafio 2 GTF"></img>
+<div align="center">
+  
+**Resolução**<br />
+<img src="https://github.com/JefersonTaiyou/TipoValorReferencia/blob/main/img-desafio/Desafio2-GFT.PNG" alt="Desafio 2 GTF"></img>
+</div>
 
 -------------------------------
 
-Leia o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1.<br />
-Leia o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2.<br />
-Após, calcule e mostre o valor a ser pago.
+Leia o **código** de uma peça 1, o **número** de peças 1, o **valor unitário** de cada peça 1.<br />
+Leia o **código** de uma peça 2, o **número** de peças 2 e o **valor unitário** de cada peça 2.<br />
+Após, **calcule e mostre o valor** a ser pago.
 
 **Entrada**:
 O arquivo de entrada contém duas linhas de dados.<br />
@@ -80,7 +86,10 @@ Entrada | Saida
 12 1 5.30   / 16 2 5.10 | VALOR A PAGAR: R$ 15.50
 13 2 15.30  / 161 4 5.20 | VALOR A PAGAR: R$ 51.40
 
-**Código**
-<img src="" alt="Desafio 3 GTF"></img>
+<div align="center">
+  
+**Resolução**<br />
+<img src="https://github.com/JefersonTaiyou/TipoValorReferencia/blob/main/img-desafio/Desafio3-GFT.PNG" alt="Desafio 3 GTF"></img>
+</div>
 
 -------------------------------
