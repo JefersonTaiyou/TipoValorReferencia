@@ -17,7 +17,7 @@ class ValueAndReferenceTypesDemo
     AlterarNome(nomes, nome, nomeNovo);
 
     WriteLine($@"A lista de nomes Alterada é:
-      {string.Join(", \n",nomes)} 
+    {string.Join(", \n",nomes)} 
     ");
 
   }
@@ -72,7 +72,7 @@ class ValueAndReferenceTypesDemo
       nomeAchado = nomeNovo;
       
       WriteLine($@"A lista de nomes Alterada é:
-        {string.Join(", \n",nomes)}
+      {string.Join(", \n",nomes)}
       ");
     }
     else
